@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=specialinjir" alt="specialinjir" /></a> </p>
 
-- 💬 Ask me about **.net**
-- ⚡ Fun fact **Totally in love with Resident Evil 7**
+- 💬 Ask me about **.net** and C++.
+- 😃 Fun fact **Totally in love with Resident Evil 7**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
