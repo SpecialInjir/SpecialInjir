@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=specialinjir&label=Profile%20views&color=0e75b6&style=flat" alt="specialinjir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=specialinjir" alt="specialinjir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=specialinjir&theme=onedark" alt="specialinjir" /></a> </p>
 
 - 💬 Ask me about **.net** and C++.
 -  **Totally in love with Resident Evil**
